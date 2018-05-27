@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HW2-P3", "HW2\HW2-P3.pyproj", "{C135B6EF-047F-40D0-B7EE-03CA99B8498F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{776592A1-7B5C-4D9D-968B-E406D074925C}"
+	ProjectSection(SolutionItems) = preProject
+		HW2\DynamicLinkedList.py = HW2\DynamicLinkedList.py
+		HW2\HilbertCurveNode.py = HW2\HilbertCurveNode.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C135B6EF-047F-40D0-B7EE-03CA99B8498F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C135B6EF-047F-40D0-B7EE-03CA99B8498F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72D9B0C1-EEB7-49FC-9B61-30F52D54201B}
+	EndGlobalSection
+EndGlobal
